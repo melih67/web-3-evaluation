@@ -1,0 +1,13 @@
+body > div > img {
+    width: 250px;
+}
+
+@font-face {
+    font-family: fontwebsite;
+    src: url(sansation_light.woff);
+}
+
+main{
+    font-family: "Poppins";
+}
+
